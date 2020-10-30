@@ -1,0 +1,57 @@
+#header-nav
+{
+    background-color:black;
+    margin-bottom: 20px; 
+    padding: 0;
+}
+.navbar-light .navbar-brand {
+    color:white;
+}
+.navbar-brand
+{
+    margin-left: 10px;
+    font-size: 2em;
+    font-weight: bold;
+}
+.navbar-light .navbar-brand:hover{
+	color: white;
+}
+
+.navbar-toggler
+{
+    background-color:gray;
+}
+#headd
+{
+    margin-bottom: 30px;
+}
+.nav-link
+{
+    font-size: 20px;
+    font-weight: bold;
+}
+#nav-list li
+{
+    width: 100%;
+    text-align: center;   
+    border-bottom:2px solid black;
+    margin: 0;
+    background-color: white;
+}
+.box
+{
+    background-color: gray;
+    margin: 20px;
+    width: auto;
+    height: auto;
+}
+#head1
+{
+    font-size: 30px;
+    padding-top:10px;
+    margin-bottom: 20px;
+}
+#para
+{
+    padding: 10px;
+}
